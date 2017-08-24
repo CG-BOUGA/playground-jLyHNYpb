@@ -1,11 +1,11 @@
 # Welcome!
 
-This Python template lets you get started quickly with a simple one-page playground.
+This Ruby template lets you get started quickly with a simple one-page playground.
 
-```python runnable
-print('Hello World!')
+```ruby runnable
+puts 'Hello World!'
 ```
 
 # Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+If you want a more complex example (external libraries, viewers...), use the [Advanced Ruby template](https://tech.io/select-repo/606)
