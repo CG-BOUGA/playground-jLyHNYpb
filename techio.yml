@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Ruby template
 
 plan:
-  - title: Python Snippet
+  - title: Ruby Snippet
     statement: statement.md
